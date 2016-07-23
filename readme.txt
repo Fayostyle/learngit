@@ -4,4 +4,5 @@ git has a mutable index called stage
 create a new branch
 so easy and simple
  num 6 line
+ num 7 line
 
